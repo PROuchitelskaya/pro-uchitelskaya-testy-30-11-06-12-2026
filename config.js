@@ -1,0 +1,1 @@
+window.TESTS_CONFIG = {"mode": "free", "siteUrl": "https://prouchitelskaya.ru/trainers/pro-uchitelskaya-testy-30-11-06-12-2026/", "announcementUrl": "https://t.me/UchitelskayaAG/1704", "openGrades": ["g10", "g11"], "accessUrl": "https://t.me/tribute/app?startapp=ep_zdh9WFp8L4laKVNDYUUkgzmTgYPq23ey1ZJxCdgNDe7nHwgo16Y"};
